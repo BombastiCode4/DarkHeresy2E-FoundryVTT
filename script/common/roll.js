@@ -465,6 +465,7 @@ function _computeRateOfFire(rollData) {
 
         case "lightning":
         case "full_auto":
+        case "storm":
             rollData.attackType.modifier = -10;
             rollData.attackType.hitMargin = 1;
             rollData.attackType.maxHits = rollData.weapon.rateOfFire.full;
