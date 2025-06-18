@@ -69,7 +69,7 @@
   "secondaryTokenAttribute": null,
   "url": "https://github.com/BombastiCode4/DarkHeresy2E-FoundryVTT",
   "socket": true,
-  "manifest": "https://github.com/Vendare/DarkHeresy2E-FoundryVTT/releases/download/4.3.2.1/system.json",
+  "manifest": "https://github.com/BombastiCode4/DarkHeresy2E-FoundryVTT/releases/download/4.3.2.1/system.json",
   "download": "https://github.com/Vendare/DarkHeresy2E-FoundryVTT/releases/download/4.3.2.1/dark-heresy.zip",
   "license": "LICENSE.txt"
 }
